@@ -5,3 +5,4 @@ print("hello world")
 #No rest without finishing this program
 #arithmetic operations
 print("2 + 4")
+print("3 * 7")
